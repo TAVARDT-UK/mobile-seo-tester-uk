@@ -49,3 +49,7 @@ For interactive rendering diagnostics and cross-device testing:
 ## Professional Advisory
 
 For enterprise guidance aligned with UK Government Digital Service and Google Mobile-First Indexing, contact **TAVARDT UK**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
