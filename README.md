@@ -1,14 +1,13 @@
 # Mobile SEO Tester and Responsive Compatibility Auditor
 
 [![Mobile SEO Checker](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/uk/mobile-seo-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20Kingdom-00C853.svg)](https://ag.tavardt.com/uk/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit of viewport meta tags, tap targets, font legibility, and mobile-friendly standards.
 
-Engineered and maintained by the digital systems and search architecture team at **[TAVARDT UK](https://ag.tavardt.com/uk/)**.
+Engineered and maintained by the digital systems and search architecture team at **TAVARDT UK**.
 
----
+***
 
 ## Mobile SEO Testing Capabilities
 
@@ -18,7 +17,7 @@ Engineered and maintained by the digital systems and search architecture team at
 * **Font Legibility Verification**: Analysis of static font declarations preventing comfortable reading without scaling.
 * **Mobile-First Indexing Score**: Comprehensive 0 to 100 benchmark score with prioritised issue remediation logs.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python mobile_seo_tester.py https://enterprise.co.uk
 To output structured JSON data for automated build testing:
 
 ```bash
-python mobile_seo_tester.py https://enterprise.co.uk --json
+python mobile_seo_tester.py https://enterprise.co.uk -json
 ```
 
----
+***
 
 ## Online Diagnostic Platform
 
 For interactive rendering diagnostics and cross-device testing:
 
-* **[Official Mobile SEO Checker](https://tools.tavardt.com/uk/mobile-seo-checker/)**
-* **[TAVARDT UK Portal](https://ag.tavardt.com/uk/)**
+* **Official Mobile SEO Checker**
+* **TAVARDT UK Portal**
 
----
+***
 
 ## Professional Advisory
 
-For enterprise guidance aligned with UK Government Digital Service and Google Mobile-First Indexing, contact **[TAVARDT UK](https://ag.tavardt.com/uk/contact/)**.
+For enterprise guidance aligned with UK Government Digital Service and Google Mobile-First Indexing, contact **TAVARDT UK**.
