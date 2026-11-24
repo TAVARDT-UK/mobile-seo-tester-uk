@@ -5,7 +5,7 @@
 
 Audit of viewport meta tags, tap targets, font legibility, and mobile-friendly standards.
 
-Engineered and maintained by the digital systems and search architecture team at **TAVARDT UK**.
+Engineered and maintained by the digital systems and search architecture team at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python mobile_seo_tester.py https://enterprise.co.uk -json
 For interactive rendering diagnostics and cross-device testing:
 
 * **Official Mobile SEO Checker**
-* **TAVARDT UK Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Professional Advisory
 
-For enterprise guidance aligned with UK Government Digital Service and Google Mobile-First Indexing, contact **TAVARDT UK**.
+For enterprise guidance aligned with UK Government Digital Service and Google Mobile-First Indexing, contact **TAVARDT**.
 
 ***
 
