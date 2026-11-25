@@ -6,8 +6,6 @@
 
 Audit of viewport meta tags, tap targets, font legibility, and mobile-friendly standards.
 
-Engineered and maintained by the digital systems and search architecture team at **TAVARDT**.
-
 ***
 
 ## Mobile SEO Testing Capabilities
@@ -38,15 +36,6 @@ python mobile_seo_tester.py https://enterprise.co.uk -json
 
 ***
 
-## Online Diagnostic Platform
-
-For interactive rendering diagnostics and cross-device testing:
-
-* **Official Mobile SEO Checker**
-* **TAVARDT Portal**
-
-***
-
 ## Professional Advisory
 
 For enterprise guidance aligned with UK Government Digital Service and Google Mobile-First Indexing, contact **TAVARDT**.
@@ -62,7 +51,7 @@ For enterprise guidance aligned with UK Government Digital Service and Google Mo
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
